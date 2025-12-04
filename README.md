@@ -20,8 +20,8 @@ Built with: Google Gemini 1.5 Flash • LangChain • RAG • FastAPI • React
    ```
 3. **Start the application** (see below)
 
-📖 **Detailed instructions**: See `QUICK_START_PYTHON312.md`
-
+📖 **Detailed instructions**:
+WORKSHOP_90MIN_GUIDE
 ---
 
 ## 🚀 Quick Start
@@ -77,38 +77,7 @@ Open: **http://localhost:5173**
 
 ## 📚 Workshop Materials
 
-This project includes **25 comprehensive guides** for teaching Agentic AI:
-
-### Core Guides
-- `FINAL_STATUS_REPORT.md` - Complete project overview
-- `QUICK_START_PYTHON312.md` - Setup instructions
-- `ARCHITECTURE_OVERVIEW.md` - System design
-- `WORKSHOP_90MIN_GUIDE.md` - 90-minute workshop plan
-
-### Teaching Materials
-- `FACILITATOR_NOTES.md` - Instructor guide
-- `VISUAL_LANGGRAPH_GUIDE.md` - Visual workflow design
-- `PROMPT_ENGINEERING_GUIDE.md` - Prompt best practices
-- `CONTEXT_VS_PROMPT_VS_RAG.md` - Key concepts explained
-- `HUMAN_IN_THE_LOOP_GUIDE.md` - Interactive patterns
-
-### Technical Guides
-- `AI_STUDIO_GUIDE.md` - Google AI Studio tutorial
-- `ORCHESTRATOR_QUICK_REFERENCE.md` - LangGraph reference
-- `LANGGRAPH_VISUALIZATION_EXPLAINED.md` - Visualization guide
-- `ITERATIVE_WORKFLOW_GUIDE.md` - Development workflow
-
-### Research Materials
-- `IEEE_PAPER_TEMPLATE.md` - Research paper template
-- `WORKSHOP_QUESTIONNAIRES.md` - Data collection forms
-
-### Troubleshooting
-- `PYTHON_314_ISSUE.md` - Python compatibility issue
-- `API_KEY_TROUBLESHOOTING.md` - API key problems
-
-📁 **All guides located in**: `C:\Users\Naveen Nalajala\.gemini\antigravity\brain\8457259b-11c1-4422-9f04-0beafc242e4d\`
-
----
+Will be added shortly
 
 ## 🏗️ Architecture
 
@@ -181,17 +150,6 @@ This project includes **25 comprehensive guides** for teaching Agentic AI:
 
 ### Workshop Duration
 90 minutes (hands-on coding included)
-
----
-
-## 📊 Project Stats
-
-- **Lines of Code**: ~2,500
-- **Workshop Guides**: 25
-- **Development Time**: ~6 hours
-- **Setup Time**: 5-10 minutes
-- **Target Audience**: 40 participants
-
 ---
 
 ## 🆘 Troubleshooting
@@ -212,10 +170,7 @@ This project includes **25 comprehensive guides** for teaching Agentic AI:
 
 ## 📞 Support
 
-- 📖 **Setup Guide**: `QUICK_START_PYTHON312.md`
-- 🐛 **Python Issue**: `PYTHON_314_ISSUE.md`
-- 🔑 **API Issues**: `API_KEY_TROUBLESHOOTING.md`
-- 📊 **Full Status**: `FINAL_STATUS_REPORT.md`
+It's going to be working together session. So we help each other. 
 
 ---
 
@@ -245,8 +200,3 @@ Built with:
 - React + Vite
 - ChromaDB
 
----
-
-**Ready for your workshop!** 🚀
-
-For detailed setup instructions, see `QUICK_START_PYTHON312.md`
