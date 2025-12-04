@@ -23,6 +23,7 @@ Built with: Google Gemini 1.5 Flash • LangChain • RAG • FastAPI • React
 📖 **Detailed instructions**:
 WORKSHOP_90MIN_GUIDE
 ---
+[WORKSHOP_90MIN_GUIDE.pdf](https://github.com/user-attachments/files/23943050/WORKSHOP_90MIN_GUIDE.pdf)
 
 ## 🚀 Quick Start
 
