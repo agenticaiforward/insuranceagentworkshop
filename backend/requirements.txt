@@ -1,0 +1,18 @@
+# Core Dependencies
+fastapi==0.123.0
+uvicorn==0.34.0
+python-dotenv==1.2.1
+
+# LangChain Stack (includes Google Gemini integration)
+langchain>=0.3.0
+langgraph>=0.2.0
+langchain-google-genai>=2.0.0
+langchain-chroma>=0.2.0
+langchain-community>=0.3.0
+
+# Vector Store
+chromadb>=0.5.0
+
+# Utilities
+# pydantic[dotenv] version removed to allow FastAPI's compatible version
+
